@@ -3,7 +3,14 @@ Because they look cool and I don't have time right now. These are also things th
 
 ## From Holman
 - bin/cloudapp
+- all the commented out stuff in Brewfile
 
+# Troubleshooting
+- Do I need tap 'caskroom/cask' in Brewfile?
+
+# Linux vs Mac
+- Brewfile: cask_args appdir: '/Applications'
 
 # Misc
 - Run bin/dot periodically
+
