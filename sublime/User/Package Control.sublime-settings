@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Babel",
+		"Better JavaScript",
+		"DashDoc",
+		"Git",
+		"Gitignored File Excluder",
+		"Jade",
+		"Jasmine JS",
+		"JSHint",
+		"JSHint Gutter",
+		"Package Control",
+		"Pretty JSON",
+		"Python Breakpoints",
+		"Python Flake8 Lint",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint"
+	]
+}
