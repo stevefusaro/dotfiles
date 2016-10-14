@@ -40,5 +40,8 @@ done
 
 unset config_files
 
-export WORKON_HOME=$HOME/.virtualenvs
 export PROJECT_HOME=$HOME/src
+
+export WORKON_HOME=$HOME/.virtualenvs
+source /usr/local/bin/virtualenvwrapper.sh
+
