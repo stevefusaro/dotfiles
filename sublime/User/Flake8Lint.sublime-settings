@@ -1,7 +1,7 @@
 {
 	"popup": true,
 	"pep8": true,
-	"ignore": ["I", "T002"],
+	"ignore": ["I", "T002", "N802", "N806", "E265"],
 	"pydocstyle": false,
 	"pep8_max_line_length": 120
 }
