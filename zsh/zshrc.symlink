@@ -45,3 +45,15 @@ export PROJECT_HOME=$HOME/src
 export WORKON_HOME=$HOME/.virtualenvs
 source /usr/local/bin/virtualenvwrapper.sh
 
+export REACT_APP_NPM_TOKEN='1ba7a9a9-b4f1-4f05-8ef4-c399dc2cdb98'
+
+eval "$(rbenv init -)"
+export PATH="/usr/local/opt/qt@5.5/bin:$PATH"
+export PATH="/usr/local/opt/qt/bin:$PATH"
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+
+export REACT_APP_NPMRC_FONT_AWESOME_URL=https://npm.fontawesome.com/CA003A15-6D03-4B5B-BF45-A2BC53C48992
